@@ -127,7 +127,7 @@ const isRaining = true //Está lloviendo
 //accedemos, luego verificamos si se cumple y especificamos que se hará si se cumple.
 isRaining ? console.log("Está lloviendo") : console.log("No está lloviendo")
 
-
+//Nota para evaluar primero debe agregarse la condición a evaluar antes del interrogante por ejemplo en casos donde quiera evaluarse una cifra o la edad por ejemplo se debe especificar primero esta condición, por ejemplo, edad >= 18 ?     
 
 
 
