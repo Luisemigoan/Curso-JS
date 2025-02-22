@@ -97,10 +97,35 @@ Falsy values (Valores falsos)
 -Cadenas de texto vacías
 */
 
-//Operadores lógicos
+//Operadores lógicos, sirven para comparar valores pero booleano, identificamos si una entidad es verdadera o falsa, podemos unir varias comparaciones, son 3 principalmente.
 
+// and ( && )
 
+console.log(5 > 10 && 15 > 20)//false, si todo es falso será falso
+console.log(5 < 10 && 15 < 20)//true, si todo es verdadero será verdadero
+console.log(5 < 10 && 15 > 20)//false, si alguna de las dos no se cumple será false
 
+// or ( || ): Si se cumple almenos una de las comparaciónes que estamos realizando el resultado final será verdadero.
+
+console.log(5 > 10 || 15 > 20)//false ninguna expresión es verdadera.
+console.log(5 > 10 || 15 < 20)//true la segunda expresión es verdadera
+console.log(5 < 10 || 15 > 20)//true la primera expresión es verdadera.
+console.log(5 > 10 && 15 > 20 || 30 < 40)//true si bien no se cumple el and se cumple el or.
+
+// not ( ! ): Podemos negar o en su defecto invertir un valor booleano utilizando el operador not, para ello debemos poner entre paréntesis todo el valor que queremos referenciar y agregar "!", esto es útil ya que algunas veces vamos a necesitar que el resultado sea negado o invertido.
+
+console.log((5 > 10 && 15 > 20))//false
+console.log((5 > 10 || 15 > 20))//false
+
+console.log(!(5 > 10 && 15 > 20))//true
+console.log(!(5 > 10 || 15 > 20))//true
+
+// Operadores Ternarios: ( ? : ) Permiten escribir una condición, es otra forma de escribir condicionales pero con operadores como tal, si se cumple algo se hará algo, si no se cumple se hará otra. Para ello accedemos primero a la variable que queremos inspeccionar, declaramos los operadores ternarios, luego especificamos entre el signo de interrogación y los dos puntos lo que queremos que suceda si se cumple la instrucción, sino se cumple entonces especificaremos lo que sucederá despues de los dos puntos.
+
+const isRaining = true //Está lloviendo
+
+//accedemos, luego verificamos si se cumple y especificamos que se hará si se cumple.
+isRaining ? console.log("Está lloviendo") : console.log("No está lloviendo")
 
 
 
