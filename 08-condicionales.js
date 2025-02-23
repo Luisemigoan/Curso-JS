@@ -29,4 +29,36 @@ if(age == 34) {
 const resultado = age == 37 ? "La edad es 37" : "La edad no es 37"
 console.log(resultado)
 
-//switch
+//switch es la mejor opción cuando vamos a comparar una única variable con diferentes valores posibles, evitando el uso de muchos else if.
+
+let day = 5
+let dayName
+
+//se declara la condición y en el parentesis se agrega la variable que se va a comparar, dentro de llaves {} irán los casos o valores a comparar, se deben finalizar las instrucciones con un break que romperá la ejecución del bloque impidiendo que revise los siguientes cases, finalmente se agrega una instrucción por default que ejecute una instrucción en caso de que ninguna de las validaciones sea correcta.
+
+switch (day) {
+    case 0:
+        dayName = "Lunes"
+        break
+    case 1:
+        dayName = "Martes"
+        break
+    case 2:
+        dayName = "Miercoles"
+        break
+    case 3:
+        dayName = "Jueves"
+        break
+    case 4:
+        dayName = "Viernes"
+        break
+    case 5:
+        dayName = "Sábado"
+        break            
+    case 6:
+        dayName = "Domingo"
+        break
+    default: 
+     dayName = "Número de día no válido"    
+}
+console.log(dayName)
