@@ -62,3 +62,5 @@ switch (day) {
      dayName = "Número de día no válido"    
 }
 console.log(dayName)
+
+//Ventajas y limitaciones del switch: Es fácil de entender, es eficiente para que se ejecute más rápido, es menos flexible que if/else a la hora de concatenar condiciones complejas, si no se coloca el break al final de cada instrucción el switch no funcionará correctamente.
