@@ -29,7 +29,7 @@ console.log(greeting.replace("Luis", "Mastroik"))// Hola, Mastroik! Reemplaza la
 
 //Interpolación de variables
 let email = "Luisemigoan@hotmail.com"
-console.log(`Hola, ${myName}! Tú email es: ${email}`)//Es como concatenar 
+console.log(`Hola, ${myName}! Tú email es: ${email}`)//Hola, Luis! Tú email es: Luisemigoan@hotmail.com
 
 //String de varias líneas
 let message = `Este es un mensaje 
