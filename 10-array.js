@@ -53,7 +53,6 @@ myArray.push(34)
 console.log(myArray)//Imprimirá Array(4) [ "Luis", "González", "Mastroik", 34 ]
 
 //pop es la función para eliminar elementos de un array de manera decreciente partiendo del último elemento del array, aparte de eliminarlo también lo devuelve por si queremos asignar ese elemento a alguna variable.
-
 myArray.pop()
 console.log(myArray.pop())//Mastroik sería el proximo elemento a eliminar, en este punto podríamos almacenarlo en otra variable de ser necesario.
 console.log(myArray)//Imprimirá Array(3) [ "Luis", "González", "Mastroik" ]
@@ -81,9 +80,8 @@ console.log(myArray)//Imprimirá Array(5) [ "Luis", "Tiene", 34, "Años", true ]
 let sliceArray = myArray.slice(1, 3)
 console.log(sliceArray)// Imprimirá Array [ "Tiene", 34 ]
 
-//splice sirve para eliminar elementos del array en el rango que le especifiquemos.
-
-myArray.splice(1, 3)
+//splice sirve para eliminar elementos del array en el rango que le especifiquemos por ejemplo si queremos eliminar 1 elemento en la segunda posición lo dfiniremos (2, 1)en la izquierda se indica apartir o en que posición queremos eliminar, en la derecha se define cuantos elementos se van a eliminar, si se especifican 3 parametros eliminara en el rango de los dos primeros número y agrgará el ultimo parametro que le asignemos.
+myArray.splice(1, 3, 8)// Imprimirá (3) ['Luis', 8, true], eliminando los índices 1, 2 y 3 y agregando el elemento 8.
 console.log(myArray)//Imprimirá Array [ "Luis", true ], en este casi si tendrá en cuenta el rango final y lo eliminará.
 
 //Nota: Todos los métodos vistos pueden hacer mucha sotras cosas que se pueden ir estudiando a futuro, sin embargo, estas son las mas frecuentes.
