@@ -65,9 +65,46 @@ for (let multipli of arrayNumbers) {
 console.log(`El producto total es: ${product}`)
 
 // 7. Escribe un bucle que imprima la tabla de multiplicar del 5
+for (let i = 1; i <= 10; i++) {
+    console.log(`5 x ${i} = ${5 * i}`);
+}
 
 // 8. Usa un bucle para invertir una cadena de texto
+let texto = "JavaScript";
+let invertido = "";
+
+for (let i = texto.length - 1; i >= 0; i--) {
+    invertido += texto[i];
+}
+
+console.log(invertido);
 
 // 9. Usa un bucle para generar los primeros 10 números de la secuencia de Fibonacci
+let n = 10;  // Número de elementos de la secuencia
+let fibonacci = [0, 1];  // Inicia con los dos primeros números de Fibonacci
+
+for (let i = 2; i < n; i++) {
+    fibonacci[i] = fibonacci[i - 1] + fibonacci[i - 2];  // La suma de los dos números anteriores
+}
+
+console.log(fibonacci);
+
 
 // 10. Dado un array de números, usa un bucle para crear un nuevo array que contenga solo los números mayores a 10
+let numeros = [5, 12, 8, 20, 3, 15, 7];
+let mayoresA10 = [];
+
+for (let i = 0; i < numeros.length; i++) {
+    if (numeros[i] > 10) {
+        mayoresA10.push(numeros[i]);  // Agrega al nuevo array si el número es mayor a 10
+    }
+}
+
+console.log(mayoresA10);
+
+
+
+const nums = [1, 2, 3, 4, 5, 6]
+
+const paresImpares = Object.groupBy(nums, n => n % 2 ? "Impares" : "Pares");
+console.log(paresImpares)

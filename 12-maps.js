@@ -1,4 +1,4 @@
-// maps, o diccionario se trata de una colección de elementos y cada elemento no es único, cada elemento se conforma por un par (dos elementos) una clave (key) y el otro por un valor (value), podremos tener claves y valores de cualquier tipo de dato, el mapa nos sirve para relacionar estos dos datos (clave y valor), la clave es por el elemento en el que buscamos dentro de esta estructura y un valor que veremos qu eestá asociado a esa clave.
+// maps, o diccionario se trata de una colección de elementos y cada elemento no es único, cada elemento se conforma por un par (dos elementos) una clave (key) y el otro por un valor (value), podremos tener claves y valores de cualquier tipo de dato, el mapa nos sirve para relacionar estos dos datos (clave y valor), la clave es por el elemento en el que buscamos dentro de esta estructura y un valor que veremos que está asociado a esa clave.
 
 // declaración
 let myMap = new Map()
