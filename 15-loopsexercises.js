@@ -29,9 +29,9 @@ for (let num = 2; num <= 50; num += 2) {
 //Muestra pares e impares
 for (let num = 1; num <= 50; num++) {
     if (num % 2 === 0) {
-        console.log(`Iteración: ${num} es PAR`);
+        console.log(`La iteración número ${num} es PAR`);
     } else {
-        console.log(`Iteración: ${num} es IMPAR`);
+        console.log(`La iteración número ${num} es IMPAR`);
     }
 }
 
@@ -101,10 +101,3 @@ for (let i = 0; i < numeros.length; i++) {
 }
 
 console.log(mayoresA10);
-
-
-
-const nums = [1, 2, 3, 4, 5, 6]
-
-const paresImpares = Object.groupBy(nums, n => n % 2 ? "Impares" : "Pares");
-console.log(paresImpares)

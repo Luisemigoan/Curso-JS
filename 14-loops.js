@@ -47,7 +47,7 @@ do {
 } while (p < 5)
 //Como podemos observar el bloque se ejcutará por lo menos una vez y luego que continue o no ejecutandose dependerá de la condición.
 
-// Bucle for of: recorre valores de algo que sea iterable (estructura de datos o algún tipo de datos), su sintaxis es similar, dentro de los parentesis se declara una variable se agrega of y se agrega el valor que se quiere iterar, finalmente declaramos que queremos hacer, en este caso imprimir los valores de un array, un set y un map, para este ejemplo usaremos las estructuras de datos vistas en las clases anteriores.
+// Bucle for of: recorre valores de algo que sea iterable (estructura de datos o algún tipo de datos), su sintaxis es similar, dentro de los parentesis se declara una variable se agrega of y se agrega el valor que se quiere iterar en este caso las estructuras creadas, finalmente declaramos que queremos hacer, en este caso imprimir los valores de un array, un set y un map, para este ejemplo usaremos las estructuras de datos vistas en las clases anteriores.
 
 newArray = ["Luis", "Tiene", 34, "Años", true]
 
