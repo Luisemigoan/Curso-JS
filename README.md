@@ -71,6 +71,6 @@ A [Brais Moure](https://www.youtube.com/@mouredev) por compartir su conocimiento
 Si quieres aportar, ¡eres bienvenido! Puedes hacer un **fork** y enviar un **pull request** con mejoras o nuevos ejercicios. 
 
 ## 📬 Contactame!
-- 🔗 **GitHub:** [github.com/tu-usuario](https://github.com/Luisemigoan)
+- 🔗 **GitHub:** [GitHub](https://github.com/Luisemigoan)
 - 🐙 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/Luisemigoan/)
 
