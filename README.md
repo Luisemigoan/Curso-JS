@@ -44,6 +44,8 @@ Este repositorio contiene ejercicios y conceptos fundamentales de **JavaScript**
  ┃ ┣ 📜 15-loopsexercises.js
  ┃ ┣ 📜 16-functions.js
  ┃ ┣ 📜 17-functionsexercises.js
+ ┃ ┣ 📜 18-objects.js
+ ┃ ┣ 📜 19-objectsexercises.js
  ┃ ┗ 📜 ...
  ┣ 📜 README.md
  ┗ 📜 index.html
