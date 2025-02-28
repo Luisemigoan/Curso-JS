@@ -5,7 +5,7 @@
 ## 📌 Descripción
 Este repositorio contiene ejercicios y conceptos fundamentales de **JavaScript**, basados en el curso gratuito de **Brais Moure** en YouTube. Ideal para principiantes que quieren aprender desde cero hasta entender los fundamentos esenciales del lenguaje.
 
-🔗 **Curso en YouTube:** [JavaScript desde Cero - Brais Moure](https://www.youtube.com/watch?v=qoSksQ4s_hg)
+🔗 **Curso en YouTube:** [JavaScript desde Cero - Brais Moure](https://www.youtube.com/watch?v=1glVfFxj8a4&ab_channel=MoureDevbyBraisMoure)
 
 ## 📚 Contenido
 ✔️ Variables y tipos de datos  
@@ -71,6 +71,6 @@ A [Brais Moure](https://www.youtube.com/@mouredev) por compartir su conocimiento
 Si quieres aportar, ¡eres bienvenido! Puedes hacer un **fork** y enviar un **pull request** con mejoras o nuevos ejercicios. 
 
 ## 📬 Contactame!
-- 🔗 **GitHub:** [GitHub](https://github.com/Luisemigoan)
-- 🐙 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/Luisemigoan/)
+- 🐙 **[GitHub](https://github.com/Luisemigoan)**
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/Luisemigoan/)**
 
