@@ -102,3 +102,5 @@ myMap = new Map([
 myArray.forEach((value) => console.log(value)) //arrow function
 mySet.forEach((value) => console.log(value)) //arrow function
 myMap.forEach((value) => console.log(value)) //arrow function
+
+//Esta es una forma mas concisa de ejecutar un for o un while y se evitan errores comunes, no se detienen con el break o continue, como toto tiene cosas a favor y en contra.
