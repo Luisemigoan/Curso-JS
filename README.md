@@ -9,25 +9,45 @@ Este repositorio contiene ejercicios y conceptos fundamentales de **JavaScript**
 
 ## 📚 Contenido
 ✔️ Variables y tipos de datos  
-✔️ Estructuras de control (if, switch, loops)  
-✔️ Funciones y ámbito  
-✔️ Arrays, objetos y estructuras de datos  
-✔️ Métodos avanzados (map, filter, reduce)  
-✔️ Manipulación del DOM  
-✔️ Eventos y asincronía  
-✔️ Fetch API y promesas  
+✔️ Operadores 
+✔️ Otros usos de strings 
+✔️ Condicionales 
+✔️ Estructuras de control (arrays, sets, maps)
+✔️ Bucles  
+✔️ Funciones
+✔️ Objetos 
+✔️ Desestructuración y propagación
+✔️ Clases
+✔️ Herencia de clases
+✔️ Manejo de errores
+✔️ Console
+✔️ Módulos
 
 ## 📂 Estructura del Repositorio
 ```
 📦 Fundamentos-JS
- ┣ 📂 ejercicios
+ ┃ ┣ 📜 00-helloworld.js
  ┃ ┣ 📜 01-variables.js
- ┃ ┣ 📜 02-funciones.js
- ┃ ┣ 📜 03-arrays.js
+ ┃ ┣ 📜 02-datatypes.js
+ ┃ ┣ 📜 03-datatypesexercises.js
+ ┃ ┣ 📜 04-operators.js
+ ┃ ┣ 📜 05-operatorsexercises.js
+ ┃ ┣ 📜 06-strings.js
+ ┃ ┣ 📜 07-stringsexercises.js
+ ┃ ┣ 📜 08-conditionals.js
+ ┃ ┣ 📜 09-conditionalsexercises.js
+ ┃ ┣ 📜 10-arrays.js
+ ┃ ┣ 📜 11-sets.js
+ ┃ ┣ 📜 12-maps.js
+ ┃ ┣ 📜 13-estructuresexercises.js
+ ┃ ┣ 📜 14-loops.js
+ ┃ ┣ 📜 15-loopsexercises.js
+ ┃ ┣ 📜 16-functions.js
+ ┃ ┣ 📜 17-functionsexercises.js
  ┃ ┗ 📜 ...
  ┣ 📜 README.md
  ┣ 📜 index.html
- ┗ 📜 script.js
+
 ```
 
 ## 🛠 Requisitos
@@ -37,19 +57,20 @@ Este repositorio contiene ejercicios y conceptos fundamentales de **JavaScript**
 ## 🚀 Cómo usar este repositorio
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/Fundamentos-JS.git
+   git clone https://github.com/Luisemigoan/Curso-JS.git
    ```
 2. Abre el proyecto en **VS Code** o tu editor favorito.
 3. Ejecuta los scripts en la consola del navegador o con Node.js:
    ```bash
    node ejercicios/01-variables.js
    ```
+## 🏆 Agradecimientos
+A [Brais Moure](https://www.youtube.com/@mouredev) por compartir su conocimiento con la comunidad y hacer el aprendizaje de JavaScript más accesible para todos.
 
-## 💡 Contribuciones
+## 🌟 Contribuciones
 Si quieres aportar, ¡eres bienvenido! Puedes hacer un **fork** y enviar un **pull request** con mejoras o nuevos ejercicios. 
 
-## 📌 Créditos
-Curso creado por **Brais Moure**. Repositorio mantenido por [Tu Nombre].
-
-📌 **Sígueme en GitHub:** [github.com/tu-usuario](https://github.com/tu-usuario)
+## 📬 Contacto
+- 🔗 **GitHub:** [github.com/tu-usuario](https://github.com/Luisemigoan)
+- 🐙 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/Luisemigoan/)
 
