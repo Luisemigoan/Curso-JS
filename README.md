@@ -9,19 +9,19 @@ Este repositorio contiene ejercicios y conceptos fundamentales de **JavaScript**
 
 ## 📚 Contenido
 ✔️ Variables y tipos de datos  
-✔️ Operadores 
-✔️ Otros usos de strings 
-✔️ Condicionales 
-✔️ Estructuras de control (arrays, sets, maps)
+✔️ Operadores  
+✔️ Otros usos de strings  
+✔️ Condicionales  
+✔️ Estructuras de control (arrays, sets, maps)  
 ✔️ Bucles  
-✔️ Funciones
-✔️ Objetos 
-✔️ Desestructuración y propagación
-✔️ Clases
-✔️ Herencia de clases
-✔️ Manejo de errores
-✔️ Console
-✔️ Módulos
+✔️ Funciones  
+✔️ Objetos   
+✔️ Desestructuración y propagación  
+✔️ Clases  
+✔️ Herencia de clases  
+✔️ Manejo de errores  
+✔️ Console  
+✔️ Módulos  
 
 ## 📂 Estructura del Repositorio
 ```
@@ -46,7 +46,7 @@ Este repositorio contiene ejercicios y conceptos fundamentales de **JavaScript**
  ┃ ┣ 📜 17-functionsexercises.js
  ┃ ┗ 📜 ...
  ┣ 📜 README.md
- ┣ 📜 index.html
+ ┗ 📜 index.html
 
 ```
 
@@ -70,7 +70,7 @@ A [Brais Moure](https://www.youtube.com/@mouredev) por compartir su conocimiento
 ## 🌟 Contribuciones
 Si quieres aportar, ¡eres bienvenido! Puedes hacer un **fork** y enviar un **pull request** con mejoras o nuevos ejercicios. 
 
-## 📬 Contacto
+## 📬 Contactame!
 - 🔗 **GitHub:** [github.com/tu-usuario](https://github.com/Luisemigoan)
 - 🐙 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/Luisemigoan/)
 
