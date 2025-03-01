@@ -29,23 +29,25 @@ Este repositorio contiene ejercicios y conceptos fundamentales de **JavaScript**
  ┃ ┣ 📜 00-helloworld.js
  ┃ ┣ 📜 01-variables.js
  ┃ ┣ 📜 02-datatypes.js
- ┃ ┣ 📜 03-datatypesexercises.js
+ ┃ ┣ 📜 03-datatypes-exercises.js
  ┃ ┣ 📜 04-operators.js
- ┃ ┣ 📜 05-operatorsexercises.js
+ ┃ ┣ 📜 05-operators-exercises.js
  ┃ ┣ 📜 06-strings.js
- ┃ ┣ 📜 07-stringsexercises.js
+ ┃ ┣ 📜 07-strings-exercises.js
  ┃ ┣ 📜 08-conditionals.js
- ┃ ┣ 📜 09-conditionalsexercises.js
+ ┃ ┣ 📜 09-conditionals-exercises.js
  ┃ ┣ 📜 10-arrays.js
  ┃ ┣ 📜 11-sets.js
  ┃ ┣ 📜 12-maps.js
- ┃ ┣ 📜 13-estructuresexercises.js
+ ┃ ┣ 📜 13-estructures-exercises.js
  ┃ ┣ 📜 14-loops.js
- ┃ ┣ 📜 15-loopsexercises.js
+ ┃ ┣ 📜 15-loops-exercises.js
  ┃ ┣ 📜 16-functions.js
- ┃ ┣ 📜 17-functionsexercises.js
+ ┃ ┣ 📜 17-functions-exercises.js
  ┃ ┣ 📜 18-objects.js
- ┃ ┣ 📜 19-objectsexercises.js
+ ┃ ┣ 📜 19-objects-exercises.js
+ ┃ ┣ 📜 20-destructuring-spreading.js
+ ┃ ┣ 📜 19-destructuring-spreading-exercises.js
  ┃ ┗ 📜 ...
  ┣ 📜 README.md
  ┗ 📜 index.html
