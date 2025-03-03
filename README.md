@@ -47,7 +47,10 @@ Este repositorio contiene ejercicios y conceptos fundamentales de **JavaScript**
  ┃ ┣ 📜 18-objects.js
  ┃ ┣ 📜 19-objects-exercises.js
  ┃ ┣ 📜 20-destructuring-spreading.js
- ┃ ┣ 📜 19-destructuring-spreading-exercises.js
+ ┃ ┣ 📜 21-destructuring-spreading-exercises.js
+ ┃ ┣ 📜 22-classes.js
+ ┃ ┣ 📜 23-classes-exercises.js
+ ┃ ┣ 📜 24-error-handling.js
  ┃ ┗ 📜 ...
  ┣ 📜 README.md
  ┗ 📜 index.html
