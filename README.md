@@ -51,7 +51,11 @@ Este repositorio contiene ejercicios y conceptos fundamentales de **JavaScript**
  ┃ ┣ 📜 22-classes.js
  ┃ ┣ 📜 23-classes-exercises.js
  ┃ ┣ 📜 24-error-handling.js
- ┃ ┗ 📜 ...
+ ┃ ┣ 📜 25-error-handling-exercises.js
+ ┃ ┣ 📜 26-console.js
+ ┃ ┣ 📜 27-console-exercises.js
+ ┃ ┣ 📜 28-modules.js
+ ┃ ┗ 📜 29-modules-exercises.js
  ┣ 📜 README.md
  ┗ 📜 index.html
 
