@@ -1,4 +1,4 @@
-# 🚀 Fundamentos de JavaScript - Curso de Brais Moure
+# 🚀 Fundamentos de JavaScript
 
 ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
 
