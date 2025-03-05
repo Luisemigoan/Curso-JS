@@ -56,9 +56,9 @@ Este repositorio contiene ejercicios y conceptos fundamentales de **JavaScript**
  ┃ ┣ 📜 27-console-methods-exercises.js
  ┃ ┣ 📜 28-modules.js
  ┃ ┗ 📜 29-modules-exercises.js
+ ┣ 📜 README.md
  ┣ 📜 index.html
- ┣ 📜 package.json
- ┗ 📜 README.md
+ ┗ 📜 package.json
 
 ```
 
