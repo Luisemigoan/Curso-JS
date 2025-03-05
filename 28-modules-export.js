@@ -32,6 +32,16 @@ export class Person {
 }
 
 // export default : nos permite exportar una variable, función, clase, etc. por defecto para poder ser utilizada en otros archivos.
+
+// default funcion, podría ser también una variable, clase, etc.
 export default function substract(a, b) {
     return a -b
 }
+
+// módulos externos, los módulos externos son módulos que no hemos creado nosotros, sino que son módulos que vienen por defecto en Node.js o que hemos instalado a través de npm.
+const os = require('os');
+
+console.log('Platform:', os.platform());
+console.log('Architecture:', os.arch());
+console.log('CPUs:', os.cpus());
+
